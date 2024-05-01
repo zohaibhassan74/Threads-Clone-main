@@ -1,9 +1,9 @@
 // next.config.js
 
 const nextConfig = {
-  typeScript: {
-    ignoreBuildErrors: true,
-  },
+  // typeScript: {
+  //   ignoreBuildErrors: true,
+  // },
   experimental: {
     serverActions: true,
     serverComponentsExternalPackages: ["mongoose"],
